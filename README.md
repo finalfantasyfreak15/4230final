@@ -9,13 +9,17 @@ made some change
 git basics
 
 PULL THE REPO ONTO YOUR MACHINE
+===============================
 git clone [url here] 
+------------------
 git checkout [url]
 
 CHECK BRANCH ***make sure you are in your own branch and not master***
+=======================================================================
 git branch
 
 SWTICH BRANCH
+==============
 git checkout [branch name]
 
 COMMIT CHANGES LOCALLY
