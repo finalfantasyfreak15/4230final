@@ -23,9 +23,11 @@ SWTICH BRANCH
 git checkout [branch name]
 
 COMMIT CHANGES LOCALLY
+=======================
 git commit -am "some message here"
 
 PUSH CHANGES FOR EVERYONE TO SEE
+================================
 git push
 
 
